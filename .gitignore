@@ -1,0 +1,6 @@
+/node_modules/
+.env
+index.js
+linkedin.js
+linkedin2.js
+words.txt
