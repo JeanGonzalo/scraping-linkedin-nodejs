@@ -1,197 +1,197 @@
 [
   {
-    "nombre": "\n      Daniel Nazario Choquecahuana Quispe\n    ",
+    "nombre": "Daniel Nazario Choquecahuana Quispe",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQE3DVu3N5KiZg/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=fUsvMIJd6FsihjMBAJGFtTfVf03Ix7MUw9FEU_y0ycM",
-    "ocupacion": "\n      Developer / Bootcamper en Asociación Hack Space Perú\n    "
+    "ocupacion": "Developer / Bootcamper en Asociación Hack Space Perú"
   },
   {
-    "nombre": "\n      Jhan Christian Calderon Mariano\n    ",
+    "nombre": "Jhan Christian Calderon Mariano",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQF4MjvqQTrwdw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=_Dk3G_9gkb0Zis43TcT1PMSv6LE2lq0qIJttwdFnyCM",
-    "ocupacion": "\n      --\n    "
+    "ocupacion": "--"
   },
   {
-    "nombre": "\n      Yeder José Laura Vicente\n    ",
+    "nombre": "Yeder José Laura Vicente",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQEV2-siYFdJmA/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=cejUb1FYoQGtFHg6ikdh9DQ36o1cl-mgVaXWTq3PPbU",
-    "ocupacion": "\n      Estudiante de Ing. Software\n    "
+    "ocupacion": "Estudiante de Ing. Software"
   },
   {
-    "nombre": "\n      Carlos Pérez 💡 (Charly)\n    ",
+    "nombre": "Carlos Pérez 💡 (Charly)",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQFp69nAz9UDKA/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=Q6Ygw55cc9jo2Z67uJdd7gwJZplqrGA92WRIoqVDpGo",
-    "ocupacion": "\n      Filósofo Práctico | Facilitador Ágil | LXD | Artista\n    "
+    "ocupacion": "Filósofo Práctico | Facilitador Ágil | LXD | Artista"
   },
   {
-    "nombre": "\n      Simón León López\n    ",
+    "nombre": "Simón León López",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQHgUvnJMouNiQ/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=Q9xzjO5bv2wjJJrXtW9FypTuze7KSCPQ4qYToWeHVRY",
-    "ocupacion": "\n      Everis Digital Lab\n    "
+    "ocupacion": "Everis Digital Lab"
   },
   {
-    "nombre": "\n      Carola Mestanza\n    ",
+    "nombre": "Carola Mestanza",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQEdnygxRInnEg/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=osD-r_WGNLKIQItUKm0Mn4Fg3qpE6TJC6RdHPg0aX_k",
-    "ocupacion": "\n      IT Recruiter | Psychologist\n    "
+    "ocupacion": "IT Recruiter | Psychologist"
   },
   {
-    "nombre": "\n      Mery Sacramento Falcon\n    ",
+    "nombre": "Mery Sacramento Falcon",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQGKMQjAvBSohw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=EoldpYWjrFnQqIFXACuDl45PJLfu8xG6tlQaPS0F5-A",
-    "ocupacion": "\n      Auxiliar administrativo en Compañia Textil Chipana SAC\n    "
+    "ocupacion": "Auxiliar administrativo en Compañia Textil Chipana SAC"
   },
   {
-    "nombre": "\n      Mirian Orellana Rojas\n    ",
+    "nombre": "Mirian Orellana Rojas",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQE_hdszKi7KBg/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=DnprVzlrj4GUil0TokHEUd69nDR7IkYR7667e-MihJI",
-    "ocupacion": "\n      Ingeniería de sistemas en Universidad Tecnológica del Perú\n    "
+    "ocupacion": "Ingeniería de sistemas en Universidad Tecnológica del Perú"
   },
   {
-    "nombre": "\n      LORENA GARAYAR HUANCAHUARI\n    ",
+    "nombre": "LORENA GARAYAR HUANCAHUARI",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQHetITfNwm7aw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=id8YeKO8IVs4hRqHo6P_kINZ9u335w_DSqEau-aZNrI",
-    "ocupacion": "\n      Presidente de Sedipro UTP en Sedipro UTP\n    "
+    "ocupacion": "Presidente de Sedipro UTP en Sedipro UTP"
   },
   {
-    "nombre": "\n      Moisés Andrés Alejandro Quispe Herrera\n    ",
+    "nombre": "Moisés Andrés Alejandro Quispe Herrera",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQGR8DeZCxscTQ/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=K1Pc6CSi_6GLQ09NbCiI62YsfHqow1ul-LQc5XbyUQs",
-    "ocupacion": "\n      Junior Backend Developer en everis Perú\n    "
+    "ocupacion": "Junior Backend Developer en everis Perú"
   },
   {
-    "nombre": "\n      Lesly Veronica Samaritano Ayala\n    ",
+    "nombre": "Lesly Veronica Samaritano Ayala",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQGr49Osc8HS4Q/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=DMRH8F2f8hdCziXigXibvTR0tsEbr7y98kGMNa-EEi0",
-    "ocupacion": "\n      Estudiante en Ingeniería de sistemas e informática en la Universidad Tecnológica del Perú\n    "
+    "ocupacion": "Estudiante en Ingeniería de sistemas e informática en la Universidad Tecnológica del Perú"
   },
   {
-    "nombre": "\n      Brian Yasier Jacobo Fuentes\n    ",
+    "nombre": "Brian Yasier Jacobo Fuentes",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQEaJ6M-NWsx-g/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=A0LglsCkvmvjQ4aFFwVeM2v3TCwB5htAjeYPrRzK6O4",
-    "ocupacion": "\n      Estudiante en UTP Universidad Tecnológica del Perú\n    "
+    "ocupacion": "Estudiante en UTP Universidad Tecnológica del Perú"
   },
   {
-    "nombre": "\n      Madeleine mañuico\n    ",
+    "nombre": "Madeleine mañuico",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQFlmWMVTb-Raw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=nHugE2QuywBFREadN9BguJp4o1qBizQOG831DPIgDPI",
-    "ocupacion": "\n      asesora en licitaciones en eh data sac\n    "
+    "ocupacion": "asesora en licitaciones en eh data sac"
   },
   {
-    "nombre": "\n      Christian Parrales Bringas\n    ",
+    "nombre": "Christian Parrales Bringas",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQH0nOyzR7COJw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=d1sDJP8bz47tO5_Lw7HL45iKlrCTSn2HHTu5eGO3qsQ",
-    "ocupacion": "\n      Analista Programador en GestionSource\n    "
+    "ocupacion": "Analista Programador en GestionSource"
   },
   {
-    "nombre": "\n      Jael Raymondi Palacios\n    ",
+    "nombre": "Jael Raymondi Palacios",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQEDestLaCJOzA/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=EfTbGH0Whn9WLK1XCjp4uW1aA_bZ5gHhnJMEiRqG3oM",
-    "ocupacion": "\n      Egresada de ingeniería industrial.\n    "
+    "ocupacion": "Egresada de ingeniería industrial."
   },
   {
-    "nombre": "\n      César Alberto Freitas Céspedes\n    ",
+    "nombre": "César Alberto Freitas Céspedes",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQHmlQo5EYk9Jw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=q_rAmcBd4Z9ApKOSdnn3SZJZ-fHPrxu21XUQ0lEnimY",
-    "ocupacion": "\n      Software developer\n    "
+    "ocupacion": "Software developer"
   },
   {
-    "nombre": "\n      Luis Cairampoma\n    ",
+    "nombre": "Luis Cairampoma",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQHHHw2JZd6qVw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=IF2_sIxYCNTvSNhFNb3-k2om24FvFvgYE-mlR6cEse0",
-    "ocupacion": "\n      Senior Software Developer\n    "
+    "ocupacion": "Senior Software Developer"
   },
   {
-    "nombre": "\n      Miguel Angel Cotrina Espinoza\n    ",
+    "nombre": "Miguel Angel Cotrina Espinoza",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQHSxYGs7Uj08w/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=8Hdk6RzmjSfaLsMaUUy57zqNj1HxzD9CKOgWMXvNXCA",
-    "ocupacion": "\n      Data Engineer | ITIL | AI researcher - Deep Learning - Machine Learning - DataScience & GCP Cloud | Innovation\n    "
+    "ocupacion": "Data Engineer | ITIL | AI researcher - Deep Learning - Machine Learning - DataScience & GCP Cloud | Innovation"
   },
   {
-    "nombre": "\n      Rodrigo Berrios Sanjinez\n    ",
+    "nombre": "Rodrigo Berrios Sanjinez",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQE00d9uXNgs0Q/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=Lw3ccOgi7qM6TSr87Aswb5sPEQhSbifx1T7KPZZ0ZeU",
-    "ocupacion": "\n      Practicante de BI en Casa Andina Hoteles\n    "
+    "ocupacion": "Practicante de BI en Casa Andina Hoteles"
   },
   {
-    "nombre": "\n      Esthefany Liza Silva\n    ",
+    "nombre": "Esthefany Liza Silva",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQGKU8NKLMTVYg/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=jVWGy1wydGqrnx3vh4-6OuDMWB-UosZ0t6H-qPrOHgc",
-    "ocupacion": "\n      Estudiante en UTP Universidad Tecnológica del Perú\n    "
+    "ocupacion": "Estudiante en UTP Universidad Tecnológica del Perú"
   },
   {
-    "nombre": "\n      Fernando Andre Silupu Perez\n    ",
+    "nombre": "Fernando Andre Silupu Perez",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQFFXX254yg1lA/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=bueOTpVFoWdD3fkHlnzjTL5mOmNVbz8BxfqpEg1E9a0",
-    "ocupacion": "\n      Ingeniería de Sistemas e Informática\n    "
+    "ocupacion": "Ingeniería de Sistemas e Informática"
   },
   {
-    "nombre": "\n      Diego Antonio Quiroz Ramirez\n    ",
+    "nombre": "Diego Antonio Quiroz Ramirez",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQH_4RxF5amxog/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=wLPVsBIbUIIBSvDUmt6KXfa0AfQGNTca9ZcA_67xuRE",
-    "ocupacion": "\n      Ingeniería de Sistemas\n    "
+    "ocupacion": "Ingeniería de Sistemas"
   },
   {
-    "nombre": "\n      Johan Espino\n    ",
+    "nombre": "Johan Espino",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQGmQmFCDwhxMA/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=Y2YZvJyTluVcgnRPeHZKMT26_QR4aGqlr46xvGNx2-M",
-    "ocupacion": "\n      Passionate about Mobile Development 📱👨🏻‍💻\n    "
+    "ocupacion": "Passionate about Mobile Development 📱👨🏻‍💻"
   },
   {
-    "nombre": "\n      Stive Bendezu Aguirre\n    ",
+    "nombre": "Stive Bendezu Aguirre",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQEALUpPH5lvGw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=dTLaTKkN8DBHXzYTc2x7vHhHNpdkJEa1NIxAEz6CC7s",
-    "ocupacion": "\n      Ingeniero de Sistemas e informatica\n    "
+    "ocupacion": "Ingeniero de Sistemas e informatica"
   },
   {
-    "nombre": "\n      Martín Vuelta\n    ",
+    "nombre": "Martín Vuelta",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C5603AQHbr24-57BIdg/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=eqo_RtScgWEPRZSR4HfEZ_lEbmpIuA2-E5HpKV752gg",
-    "ocupacion": "\n      Founder and CTO at SoftButterfly\n    "
+    "ocupacion": "Founder and CTO at SoftButterfly"
   },
   {
-    "nombre": "\n      Luis Chumpitaz Santivañez\n    ",
+    "nombre": "Luis Chumpitaz Santivañez",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQF4xgiHJuYlTQ/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=u_SqqkPoZNrCKOYhpJtuzH9RVVbi7JUviHrnKNT99ls",
-    "ocupacion": "\n      Jefe de Transformación Digital en Anddes\n    "
+    "ocupacion": "Jefe de Transformación Digital en Anddes"
   },
   {
-    "nombre": "\n      Josias Herrera\n    ",
+    "nombre": "Josias Herrera",
     "urlImage": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-    "ocupacion": "\n      Analista de sistema en LUBRICENTRO NUEVO MILENIO\n    "
+    "ocupacion": "Analista de sistema en LUBRICENTRO NUEVO MILENIO"
   },
   {
-    "nombre": "\n      Johann Francisco Jara Sánchez\n    ",
+    "nombre": "Johann Francisco Jara Sánchez",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQEWmuxanPi-jQ/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=BQHdCo7YlM4e8hXWIMhihCPnYeFpWO33QkXlRbciH80",
-    "ocupacion": "\n      Senior Mobile Android & iOS\n    "
+    "ocupacion": "Senior Mobile Android & iOS"
   },
   {
-    "nombre": "\n      Mauro Torres Risco\n    ",
+    "nombre": "Mauro Torres Risco",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQF2KQ8OZ5IaFw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=f29RthWo8he21ziroai1edPI8abVq_rckyIg3CZIuUw",
-    "ocupacion": "\n      Estudiante en Universidad Tecnológica del Perú\n    "
+    "ocupacion": "Estudiante en Universidad Tecnológica del Perú"
   },
   {
-    "nombre": "\n      jose alejandro argomedo martinez\n    ",
+    "nombre": "jose alejandro argomedo martinez",
     "urlImage": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-    "ocupacion": "\n      Jefe de operaciones en Municipalidad de Pocollay\n    "
+    "ocupacion": "Jefe de operaciones en Municipalidad de Pocollay"
   },
   {
-    "nombre": "\n      Juan Gabriel Gomila Salas\n    ",
+    "nombre": "Juan Gabriel Gomila Salas",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQEhyT67FhohCg/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=D93s2vOPt_WWMhqnGBVKcdRhVzXQZM4l3TGwieNBSKQ",
-    "ocupacion": "\n      CEO en @frogames_sl\n    "
+    "ocupacion": "CEO en @frogames_sl"
   },
   {
-    "nombre": "\n      Victor Cristhian Medina Chuica\n    ",
+    "nombre": "Victor Cristhian Medina Chuica",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQFQMo4WSFuPUw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=Ode8z2FOF9bQMIbt2qOvUNgHeR7duYUzs5neTh0Bpbg",
-    "ocupacion": "\n      Responsable del Área de Imagen en Municipalidad de Santa Rosa\n    "
+    "ocupacion": "Responsable del Área de Imagen en Municipalidad de Santa Rosa"
   },
   {
-    "nombre": "\n      Estefany Milagros Corzo Zapata\n    ",
+    "nombre": "Estefany Milagros Corzo Zapata",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQG7-DwYUbpj-Q/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=4XDJ7gtVEzDOosEjKdcYXeXzdDPQ0rmkdzEoR0fPJ24",
-    "ocupacion": "\n      Estudiante en Universidad Tecnológica del Perú\n    "
+    "ocupacion": "Estudiante en Universidad Tecnológica del Perú"
   },
   {
-    "nombre": "\n      Esmith Chavez\n    ",
+    "nombre": "Esmith Chavez",
     "urlImage": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-    "ocupacion": "\n      Estudiante en Universidad Tecnológica del Perú\n    "
+    "ocupacion": "Estudiante en Universidad Tecnológica del Perú"
   },
   {
-    "nombre": "\n      Diego Arnaldo Alcala Arata\n    ",
+    "nombre": "Diego Arnaldo Alcala Arata",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQHjIIEwrTRyXQ/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=9Z1lqU44HnGqSdWGCXPme_z585RENgkNK61MaNw8UCQ",
-    "ocupacion": "\n      Estudiante en Universidad Tecnológica del Perú\n    "
+    "ocupacion": "Estudiante en Universidad Tecnológica del Perú"
   },
   {
-    "nombre": "\n      Guillermo Manuel Herrera Valenzuela\n    ",
+    "nombre": "Guillermo Manuel Herrera Valenzuela",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C5103AQFNUXw0oECWEg/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=xJiUQq4cMxcTnQBAbPdoiKbiLPOZA0WucQGDjNmseBM",
-    "ocupacion": "\n      Jefe de Control de Calidad en CONALVIAS CONSTRUCCIONES\n    "
+    "ocupacion": "Jefe de Control de Calidad en CONALVIAS CONSTRUCCIONES"
   },
   {
-    "nombre": "\n      Eder  Daniel Huamani Villafuerte\n    ",
+    "nombre": "Eder Daniel Huamani Villafuerte",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQGszL-I_7qtlw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=DDG7Nle_UrrcjbCLp2AjdhRPu3E_SG7GGnRqiy6LsEk",
-    "ocupacion": "\n      Estudiante en Universidad Tecnológica del Perú\n    "
+    "ocupacion": "Estudiante en Universidad Tecnológica del Perú"
   },
   {
-    "nombre": "\n      Alonso Sal y Rosas\n    ",
+    "nombre": "Alonso Sal y Rosas",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4E03AQGVKNQAaJfjbw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=DNaVJCMvcmuecum9egSXeO-pVWqDaF7BVFCvYxsX5FA",
-    "ocupacion": "\n      Systems Engineer at Westcon-Comstor Americas\n    "
+    "ocupacion": "Systems Engineer at Westcon-Comstor Americas"
   },
   {
-    "nombre": "\n      Ayrton Merino Gonzales\n    ",
+    "nombre": "Ayrton Merino Gonzales",
     "urlImage": "https://media-exp1.licdn.com/dms/image/C4D03AQFkwI6IAZ4CJw/profile-displayphoto-shrink_100_100/0?e=1587600000&v=beta&t=Wc31hdLJvQuIQBPZOunzwBOW90H0jfAqJ1vqNqE5a7k",
-    "ocupacion": "\n      Técnico electrónico\n    "
+    "ocupacion": "Técnico electrónico"
   }
 ]
