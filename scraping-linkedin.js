@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+require("dotenv").config();
 
 (async () => {
 
@@ -11,9 +12,10 @@ const fs = require('fs');
     const password = '#password';
     const button = '.btn__primary--large';
     await page.waitForSelector(username);
-    await page.type(username, 'rjeangonzalo@gmail.com');
+
+    await page.type(username, process.env.ID);
     await page.waitForSelector(password);
-    await page.type(password, 'jeangonzalo26');
+    await page.type(password, process.env.PASS);
     await page.waitForSelector(button);
     await page.click(button);
 
